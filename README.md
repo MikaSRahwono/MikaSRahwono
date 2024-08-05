@@ -23,8 +23,6 @@ Here are some cool projects I've been working on:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikaSRahwono&theme=radical)
 
-## ⏰ WakaTime Stats
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -35,8 +33,7 @@ Here are some cool projects I've been working on:
 
 ## 📫 Get in Touch
 
-- **LinkedIn**: [linkedin.com/in/MikaSRahwono](https://linkedin.com/in/MikaSRahwono)
-- **Twitter**: [@MikaSRahwono](https://twitter.com/MikaSRahwono)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [linkedin.com/in/MikaSRahwono](https://linkedin.com/in/mikasrahwono)
+- **Email**: [mikasuryof@outlook.com](mailto:mikasuryof@outlook.com)
 
 Feel free to explore my repositories and reach out if you want to collaborate or chat about tech, games, or anything under the sun! Let's create something amazing together! 🚀
