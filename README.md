@@ -6,7 +6,6 @@ Welcome to my corner of GitHub! 🎉 I'm a passionate backend developer and DevO
 
 - 🎓 **Backend Wizard**: From designing ERDs to deploying systems, I love every bit of backend magic!
 - 🌐 **DevOps Enthusiast**: Automating all the things and making servers happy.
-- 🎮 **Gamer**: When I'm not coding, you can find me leveling up in my favorite games.
 - ☕ **Coffee Lover**: Fueled by caffeine and curiosity.
 
 ## 🌟 Projects
@@ -14,8 +13,6 @@ Welcome to my corner of GitHub! 🎉 I'm a passionate backend developer and DevO
 Here are some cool projects I've been working on:
 
 - **[KATALIS](https://github.com/MikaSRahwono/katalis)**: Special course management information system. Built from ERD to deployment!
-- **Pacil Dating App**: A fun matchmaking platform. Love is in the air! ❤️
-- **[MyRooms](https://github.com/MikaSRahwono/myrooms)**: E-commerce website built with Odoo. 🛒
 
 ## 📚 Articles & Tutorials
 
