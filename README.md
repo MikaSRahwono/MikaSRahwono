@@ -1,20 +1,4 @@
-## Hi there 👋
-
-<!--
-**MikaSRahwono/MikaSRahwono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hello, World! I'm M!
+## Hello, World! M Here 👋
 
 Welcome to my corner of GitHub! 🎉 I'm a passionate backend developer and DevOps engineer, crafting scalable systems and delightful digital experiences. Here's a sneak peek into my world:
 
@@ -24,13 +8,6 @@ Welcome to my corner of GitHub! 🎉 I'm a passionate backend developer and DevO
 - 🌐 **DevOps Enthusiast**: Automating all the things and making servers happy.
 - 🎮 **Gamer**: When I'm not coding, you can find me leveling up in my favorite games.
 - ☕ **Coffee Lover**: Fueled by caffeine and curiosity.
-
-## 🛠️ Tech Stack
-
-- **Languages**: Python, JavaScript, Swift
-- **Frameworks**: Django, Django REST Framework, React
-- **DevOps**: Docker, Kubernetes, CI/CD
-- **Tools**: VSCode, Git, GitHub Actions
 
 ## 🌟 Projects
 
@@ -52,18 +29,10 @@ I also love sharing knowledge! Check out my [Medium](https://medium.com/@youruse
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikaSRahwono&theme=radical)
 
-### ⏰ Commit Activity
-![M's commit activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MikaSRahwono&theme=radical)
+## ⏰ WakaTime Stats
 
-### 🗓️ Productive Day
-![Productive Day](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-day?username=MikaSRahwono&theme=radical)
-
-### 🌅 Commit Distribution
-
-- **Morning**: `XX%` 🌄
-- **Daytime**: `XX%` 🌞
-- **Evening**: `XX%` 🌆
-- **Night**: `XX%` 🌙
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🎵 Fun Facts
 
