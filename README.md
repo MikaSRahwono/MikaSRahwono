@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hello, World! I'm [Your Name]!
+# 👋 Hello, World! I'm M!
 
 Welcome to my corner of GitHub! 🎉 I'm a passionate backend developer and DevOps engineer, crafting scalable systems and delightful digital experiences. Here's a sneak peek into my world:
 
@@ -36,9 +36,9 @@ Welcome to my corner of GitHub! 🎉 I'm a passionate backend developer and DevO
 
 Here are some cool projects I've been working on:
 
-- **[KATALIS](https://github.com/yourusername/katalis)**: Special course management information system. Built from ERD to deployment!
+- **[KATALIS](https://github.com/MikaSRahwono/katalis)**: Special course management information system. Built from ERD to deployment!
 - **Pacil Dating App**: A fun matchmaking platform. Love is in the air! ❤️
-- **[MyRooms](https://github.com/yourusername/myrooms)**: E-commerce website built with Odoo. 🛒
+- **[MyRooms](https://github.com/MikaSRahwono/myrooms)**: E-commerce website built with Odoo. 🛒
 
 ## 📚 Articles & Tutorials
 
@@ -46,11 +46,24 @@ I also love sharing knowledge! Check out my [Medium](https://medium.com/@youruse
 
 ## 📈 GitHub Stats
 
-![MikaSRahwono's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaSRahwono&show_icons=true&theme=radical)
+![M's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaSRahwono&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaSRahwono&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikaSRahwono&theme=radical)
+
+### ⏰ Commit Activity
+![M's commit activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MikaSRahwono&theme=radical)
+
+### 🗓️ Productive Day
+![Productive Day](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-day?username=MikaSRahwono&theme=radical)
+
+### 🌅 Commit Distribution
+
+- **Morning**: `XX%` 🌄
+- **Daytime**: `XX%` 🌞
+- **Evening**: `XX%` 🌆
+- **Night**: `XX%` 🌙
 
 ## 🎵 Fun Facts
 
@@ -59,8 +72,8 @@ I also love sharing knowledge! Check out my [Medium](https://medium.com/@youruse
 
 ## 📫 Get in Touch
 
-- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- **LinkedIn**: [linkedin.com/in/MikaSRahwono](https://linkedin.com/in/MikaSRahwono)
+- **Twitter**: [@MikaSRahwono](https://twitter.com/MikaSRahwono)
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
 
 Feel free to explore my repositories and reach out if you want to collaborate or chat about tech, games, or anything under the sun! Let's create something amazing together! 🚀
