@@ -14,9 +14,6 @@ Here are some cool projects I've been working on:
 
 - **[KATALIS](https://github.com/MikaSRahwono/katalis)**: Special course management information system. Built from ERD to deployment!
 
-## 📚 Articles & Tutorials
-
-I also love sharing knowledge! Check out my [Medium](https://medium.com/@yourusername) articles on Odoo features, DevOps practices, and more!
 
 ## 📈 GitHub Stats
 
