@@ -14,7 +14,6 @@ Here are some cool projects I've been working on:
 
 - **[KATALIS](https://github.com/MikaSRahwono/katalis)**: Special course management information system. Built from ERD to deployment!
 
-
 ## 📈 GitHub Stats
 
 ![M's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaSRahwono&show_icons=true&theme=radical)
@@ -25,6 +24,10 @@ Here are some cool projects I've been working on:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+## ⏳ WakaTime Coding Stats
+
+[![M's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MikaSRahwono&layout=compact&theme=radical)](https://wakatime.com/@MikaSRahwono)
 
 ## 🎵 Fun Facts
 
