@@ -32,7 +32,6 @@ Here are some cool projects I've been working on:
 ## 🎵 Fun Facts
 
 - I play the guitar and am building a chord detection app! 🎸
-- I'm always up for a good meme or a bad pun. 😄
 
 ## 📫 Get in Touch
 
