@@ -1,6 +1,6 @@
 ## Hello, World! M Here 👋
 
-Welcome to my corner of GitHub! 🎉 I'm a passionate backend developer and DevOps engineer, crafting scalable systems and delightful digital experiences. Here's a sneak peek into my world:
+Welcome to my corner of GitHub! 🎉 I'm a passionate backend developer and DevOps engineer, crafting scalable systems and delightful digital experiences. Here's a sneak peek into my world!:
 
 ## 🚀 About Me
 
